@@ -1,0 +1,19 @@
+* {
+    background-color: rgb(36, 36, 36);
+    color: azure;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-family: Tahoma, sans-serif;
+    font-size: 42px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
